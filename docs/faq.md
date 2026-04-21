@@ -26,6 +26,20 @@ You can delete your account from any of the desktop, Android, or iOS apps:
 
 Once confirmed, your account and all associated data will be permanently removed.
 
+## Deleting Data
+
+### How do I delete a recipe?
+Open the recipe you want to remove, tap the **menu icon** (three dots), and select **Delete Recipe**. Confirm the deletion when prompted. This will remove the recipe from your saved collection but will not affect your account or other data.
+
+### How do I delete grocery items?
+Navigate to your **Grocery List**, swipe left on the item you want to remove, and tap **Delete**. To clear your entire grocery list, tap the **menu icon** at the top of the list and select **Clear All Items**.
+
+### How do I delete meal planning items?
+Go to your **Meal Plan**, tap the meal you want to remove, and select **Remove from Plan**. To clear an entire day or week, tap the **menu icon** and select **Clear Day** or **Clear Week**.
+
+### Will deleting data affect my account?
+No — deleting recipes, grocery items, or meal plan entries only removes that specific data. Your account, profile, and all other saved content remain intact.
+
 ## Features
 
 ### Can I save my favorite recipes?
