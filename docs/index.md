@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# About Chef Mate
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Chef Mate is your personal cooking companion app, designed to help you discover recipes, plan meals, and make the most of your kitchen.
 
-## Commands
+## Features
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- **Recipe Discovery** — Browse and search thousands of recipes tailored to your tastes.
+- **Meal Planning** — Plan your weekly meals with ease.
+- **Smart Grocery Lists** — Automatically generate shopping lists from your meal plan.
+- **Dietary Preferences** — Filter recipes by dietary needs and preferences.
 
-## Project layout
+## Contact
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Have questions or feedback? Reach out to us at **support@chefmateapp.com**.

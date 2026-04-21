@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: Chef Mate
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: green
+    accent: light green
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+
+nav:
+  - About: index.md
+  - FAQ: faq.md
+  - Privacy Policy: privacy-policy.md
+  - Terms of Use: terms-of-use.md
