@@ -17,7 +17,14 @@ Chef Mate is available on iOS and Android.
 Download Chef Mate from the App Store or Google Play and follow the on-screen sign-up instructions.
 
 ### How do I delete my account?
-You can delete your account from **Settings > Account > Delete Account** within the app. All your data will be permanently removed.
+You can delete your account from any of the desktop, Android, or iOS apps:
+
+1. Go to **Settings**
+2. Select **Manage Profile**
+3. Click **Delete Profile**
+4. Confirm the deletion when prompted
+
+Once confirmed, your account and all associated data will be permanently removed.
 
 ## Features
 
